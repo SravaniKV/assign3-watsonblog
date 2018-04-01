@@ -67,7 +67,6 @@ requests==2.18.4
 scipy==1.0.0
 selenium==3.7.0
 service-identity==17.0.0
-setupfiles==0.0.50
 simplejson==3.11.1
 six==1.11.0
 South==1.0.2
